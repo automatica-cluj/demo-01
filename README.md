@@ -1,2 +1,6 @@
-# demo-01
-My demo
+# Laboratoare SSATR IA
+
+
+
+My work!
+
